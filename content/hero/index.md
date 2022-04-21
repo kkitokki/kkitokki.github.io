@@ -1,7 +1,7 @@
 ---
 title: 'Hello World! My name is'
-name: 'Chandrika Deb'
-subtitle: 'I love exploring new things!'
+name: 'YANG IM CHOI'
+subtitle: 'Developer Grows on Running Curves'
 buttonText: 'Contact Me'
 ---
 
